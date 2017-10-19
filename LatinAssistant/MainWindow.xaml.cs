@@ -27,7 +27,7 @@ namespace LatinAssistant
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            int a = 1;
         }
     }
 }
